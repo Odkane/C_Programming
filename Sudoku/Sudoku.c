@@ -2,7 +2,7 @@
 //  Sudoku.c
 //  ProzProg
 //
-//  Created by David Aziamoe on .19.
+//  Created by David Aziamoe on 07.19.2020
 //  Copyright © 2019 King Gemini. All rights reserved.
 //
 
