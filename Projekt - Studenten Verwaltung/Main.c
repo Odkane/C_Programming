@@ -853,8 +853,7 @@ void MenuProject(){
     puts("1. Neuer Student eintragen");
     puts("2. Suche nach einem Studenten");
     puts("3. Liste aller Studenten");
-    puts("4. Programm beenden");
-    puts("");
+    puts("4. Programm beenden \n");
     printf("Ihre Auswahl : ");
     scanf("%d",&wahl);
 
