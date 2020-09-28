@@ -3,7 +3,7 @@
 //  ProzProg
 //
 //  Created by David Aziamoe on 07.19.2020
-//  Copyright © 2019 King Gemini. All rights reserved.
+//  Copyright © 2020 King Gemini. All rights reserved.
 //
 
 #include <stdio.h>
